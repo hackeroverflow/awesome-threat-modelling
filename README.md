@@ -39,6 +39,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Courses/Training videos on threat modeling.*
 
+###### **Practical DevSecOps**
+* [Certified Threat Modeling Professional](https://www.practical-devsecops.com/certified-threat-modeling-professional)
+
 
 ### Free
 
